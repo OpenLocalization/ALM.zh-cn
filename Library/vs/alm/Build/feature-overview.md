@@ -4,7 +4,7 @@ toc: show
 Parent: ./index.md
 ms.ContentId: 2F76AECB-D1A4-4E29-9956-7C7A75D89B74
 
-#Overview of Team Foundation Build 2015 (Beta测试)
+#Overview of Team Foundation Build 2015 (Beta测试测试)
 
 No matter what tools you use.
 In whatever language you prefer.
@@ -16,6 +16,8 @@ Just open your web browser to tell us how you want it done.
 Build for Windows, iOS, Android, Java (Ant, Maven, or Gradle), or Linux using the same domain-specific languages (DSL) you use every day on your dev machine.
 We even build Xamarin apps for both iOS and Android and run tests on Xamarin's Test Cloud as part of the build.
 We intend to enable publishing the Test Cloud test results to the server so you can view them in your build summary.
+
+![New Image](_img/cdn-1-browser-access.PNG)
 
 ![Xplat](_img/overview/add-build-steps.png)
 
