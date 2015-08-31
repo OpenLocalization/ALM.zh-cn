@@ -19,6 +19,8 @@ We intend to enable publishing the Test Cloud test results to the server so you 
 
 ![Xplat](_img/overview/add-build-steps.png)
 
+![BldVNext](_img/5star2.png)
+
 ##Easy customization
 
 Edit in the web and leverage existing knowledge of popular script 
