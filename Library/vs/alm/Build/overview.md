@@ -5,13 +5,13 @@ ms.ContentId: B1233296-C583-4F2E-981C-82D6A39CFEE4
 ms.topic: code reference (API)
 Toc: show
 
-#测试abc Team Foundation Build
+#Test Team Foundation Build
 
 ![Customizable.
 Cross Platform.](_img/taskbanner.png)<br/>
 
 <div style="background-color:#e4c1ee; padding:7px; margin:10px">
-We've built a brand new scriptable build system that's web-based and cross-platform. We believe all new and most existing customers should use it instead of the XAML build system. <b caps_internal_Id="d7fac636-0f65-461b-8ce9-8996544a3bab">[Tell me more.](feature-overview.md)</b></div>
+We've built a brand new scriptable build system that's web-based and cross-platform. We believe all new and most existing customers should use it instead of the XAML build system. <b caps_internal_Id="80251854-f28f-4c76-b4ea-7693781bee13">[Tell me more.](feature-overview.md)</b></div>
 
 ##Build agents
 
