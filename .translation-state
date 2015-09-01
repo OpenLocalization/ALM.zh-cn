@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "c9b692d8cd9ffae5d0d0d4cd40fd889febd68547",
+  "LastProcessedCommit": "d164bba96c919e87a4e0d0d9d6a577e02819f17d",
   "Items": {
     "22977059a64c421f0d899a28171f903706394115": {
       "SourceFileCommit": "dc239305ad6236ac4da4de6837b4e91b3d4b4cd4",
@@ -693,6 +693,20 @@
       "TargetFileCommit": "23576a8b06c4225fc572638a09e01baa26b65bf5",
       "TargetFilePath": "Library\\vs\\alm\\Build\\_shared\\overview.md",
       "UpdatedDateTime": "2015-09-01T09:35:15.7498399Z"
+    },
+    "40573b5ffff5d89ca198e105bc39700ab0edd08d": {
+      "SourceFileCommit": "d164bba96c919e87a4e0d0d9d6a577e02819f17d",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview-new.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "ba3baa9544ee42768cbd7770bac18546cfbc0929": {
+      "SourceFileCommit": "d164bba96c919e87a4e0d0d9d6a577e02819f17d",
+      "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\new.PNG",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
