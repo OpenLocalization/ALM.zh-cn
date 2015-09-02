@@ -718,9 +718,9 @@
     "36f6a1dbec80f0d9e088e1fb376912fd889c3a9c": {
       "SourceFileCommit": "48217b5fd401ce4579035028590e2d3d2b324f2c",
       "SourceFilePath": "Library\\vs\\alm\\Build\\xcode\\define-build.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "5cc950977a45e54385fa70f25215b869a37d69d4",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\xcode\\define-build.md",
+      "UpdatedDateTime": "2015-09-02T00:20:15.2884658Z"
     }
   }
 }
