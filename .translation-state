@@ -725,16 +725,16 @@
     "f2542296e372038d994cfc955d8511a2651d5f67": {
       "SourceFileCommit": "95a3304580b84b0682d019d8d252daa126688c6d",
       "SourceFilePath": "Library\\vs\\alm\\Build\\feature-overview-new.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "1e95aa568ba95a3adb9d9328bc0fc80da1746eb0",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\feature-overview-new.md",
+      "UpdatedDateTime": "2015-09-02T00:27:39.6753204Z"
     },
     "a4750eb2652873c6026843a43272758f45b098d9": {
       "SourceFileCommit": "95a3304580b84b0682d019d8d252daa126688c6d",
       "SourceFilePath": "Library\\vs\\alm\\Build\\_img\\image.PNG",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "1e95aa568ba95a3adb9d9328bc0fc80da1746eb0",
+      "TargetFilePath": "Library\\vs\\alm\\Build\\_img\\image.PNG",
+      "UpdatedDateTime": "2015-09-02T00:27:39.6753204Z"
     }
   }
 }
